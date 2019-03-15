@@ -1,2 +1,0 @@
-catvehicle-master:obstaclestopper-master
--DCATKIN_DEVEL_PREFIX=/home/tim/catvehicle_ws/devel -DCMAKE_INSTALL_PREFIX=/home/tim/catvehicle_ws/install -G Unix Makefiles
